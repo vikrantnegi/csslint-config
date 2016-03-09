@@ -8,7 +8,8 @@ Go to [stylelint](https://github.com/stylelint/stylelint) repo to find installat
 
 ## Using CLI for Linting
 1. Install stylelint: ``` npm install stylelint ```
-2. Looking for .stylelintrc and linting all .css files in the foo directory: ``` stylelint foo/*.css ```
+2. Install ```stylelint-config-standard``` locally within the project with ```npm install stylelint-config-standard```
+2. Looks for .stylelintrc and lints all .css files in the foo directory: ``` stylelint foo/*.css ```
 
 ### Tutorials for stylelint  
 * [creativenightly](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/)
